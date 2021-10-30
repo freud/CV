@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    {% capture styles %}
+    {% include main.css %}
+    {% endcapture %}
+    <style>
+    {{ styles | scssify }}
+    </style>
+  </head>
+  <body>
+    <section>
+      {{ content }}
+      <footer>
+          I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+      </footer>
+    </section>
+  </body>
+</html>

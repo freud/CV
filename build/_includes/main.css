@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    font: 16px 'Open Sans', 'Calibri', Helvetica, Sans-Serif;
+}
+
+section {
+    max-width: 768px;
+    min-width: 300px;
+    margin: auto;
+    padding: 0;
+}
+
+footer {
+    font-size: 13px;
+    line-height: normal;
+    margin-top: 50px;
+}
+
+hr {
+    border: 0;
+    border-bottom: 2px dashed #999;
+    height: 0;
+}
+
+h1 {
+    margin: 0 0 16px 0;
+    padding: 0 0 16px 0;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 18px;
+    position: relative;
+    font-weight: 300;
+    border-bottom: 3px solid #000;
+}
+h2:first {
+    margin-top: 50px;;
+}
+
+h3 {
+    font-weight: normal;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    line-height: normal;
+}
+h3 strong {
+    font-size: 25px;
+    line-height: normal;
+}
+
+em {
+    padding:0;
+    margin-top: 0;
+    font-style: italic;
+    font-size: 14px;
+}
+
+h2 span {
+    position: absolute;
+    bottom: 0; right: 0;
+    font-style: italic;
+    font-family: Georgia, Serif;
+    font-size: 16px;
+    color: #999;
+    font-weight: normal;
+}
+
+h3:not(:first-of-type) {
+    padding-top: 20px;
+}
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    border-bottom: 1px dotted #999;
+}
+
+a:hover {
+    border-bottom-style: solid;
+    color: #00009b;
+}
+
+p, ul {
+    margin-left: 30px;
+}
+
+h3+p {
+    margin-left: 0;
+}
+
+ul:first-of-type {
+    margin-left: 0;
+    list-style: none;
+    padding: 0;
+}
+
+h1+p,
+h1+p+p,
+h1+p+p+p {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: medium;
+}
