@@ -111,3 +111,7 @@ h1+p+p+p {
     font-weight: lighter;
     font-size: medium;
 }
+
+h3 > img {
+    vertical-align:middle;
+}
