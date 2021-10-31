@@ -75,6 +75,19 @@ Organising and leading fully charity Software Development craftsmanship conferen
 
 ***
 
+### **DEV@ZG** – Founder, Organizer
+2016-Now, [https://www.meetup.com/DEV-ZG/](https://www.meetup.com/DEV-ZG/)
+
+Organising and leading local software developers community meetup.
+
+**Summary:**
+- Responsible for a concept, coordination, and the main idea of meetings.
+- Seeking and acquisition the meetup partners, sponsors and speakers.
+- Budget and accounting.
+- Operational coordinator.
+
+***
+
 ### **Ultrico** – Full-Stack Senior Software Developer
 2015-2021, [https://ultri.co/](https://ultri.co/)
 
