@@ -15,6 +15,7 @@ Leader of software development communities: [GreenfieldConf.pl](https://Greenfie
 - [https://github.com/freud](https://github.com/freud)
 - [https://softwareneeds.io](https://softwareneeds.io)
 - [https://twitter.com/PSroczynski](https://twitter.com/PSroczynski)
+- [Download CV as PDF](https://softwareneeds.io/cv/resume.pdf)
 
 ## PROFESSIONALS EXPERIENCE
 

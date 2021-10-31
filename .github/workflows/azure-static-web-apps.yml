@@ -10,17 +10,59 @@ jobs:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
     name: Build and Deploy Job
-
     steps:
       - uses: actions/checkout@v2
-        with:
-          submodules: true
 
-      - name: Build
-        id: build
+      - name: Set ENV
         run: |
-          chmod +x ${{ github.workspace }}/build/docker-build.sh
-          sudo ${{ github.workspace }}/build/docker-build.sh
+          echo "DESTINATION_PDF_FILENAME=$(echo "Pawel.Sroczynski.CV.$(date +"%Y-%m-%d").pdf")" >> $GITHUB_ENV
+          echo ${{ env.DESTINATION_PDF_FILENAME }}
+
+      - name: Prepare artifacts directory
+        id: create-artifacts-directory
+        run: |
+          mkdir -p ${{ github.workspace }}/artifacts
+
+      - name: Prepare PDF url
+        id: pdf-url
+        run: |
+          sed -i 's/resume.pdf/${{ env.DESTINATION_PDF_FILENAME }}/g' ${{ github.workspace }}/resume.md
+
+      - name: Build Website
+        id: build-website
+        run: |
+          chmod +x ${{ github.workspace }}/build-website/docker-build.sh
+          sudo ${{ github.workspace }}/build-website/docker-build.sh
+          sudo ls "${{ github.workspace }}/artifacts" -aRlF
+
+      - name: Prepare Website artifacts
+        id: copy-website
+        run: |
+          sudo find "${{ github.workspace }}/build-website/_site" -type f -name "*.*" -exec mv {} "${{ github.workspace }}/artifacts" \;
+          sudo ls "${{ github.workspace }}/artifacts" -aRlF
+
+      - name: Build PDF
+        id: build-pdf
+        run: |
+          chmod +x ${{ github.workspace }}/build-pdf/docker-build.sh
+          sudo ${{ github.workspace }}/build-pdf/docker-build.sh
+          sudo find "${{ github.workspace }}/build-pdf" -type f -name *.pdf
+
+      - name: Prepare PDF artifacts
+        id: copy-pdf
+        run: |
+          sudo find "${{ github.workspace }}/build-pdf" -type f -name *.pdf -exec mv {} "${{ github.workspace }}/artifacts/" \;
+          sudo ls "${{ github.workspace }}/artifacts" -aRlF
+
+      - name: Upload PDF artifacts to FTP
+        timeout-minutes: 2
+        id: upload-pdf
+        run: |
+          sudo curl -T \
+            "${{ github.workspace }}/artifacts/resume.pdf" \
+            "${{ secrets.CV_UPLOAD_FTP_SERVER }}/${{ env.DESTINATION_PDF_FILENAME }}" \
+            --user "${{ secrets.CV_UPLOAD_FTP_USERNAME }}":"${{ secrets.CV_UPLOAD_FTP_PASSWORD }}" \
+            --ftp-pasv --disable-epsv --ftp-ssl-ccc
 
       - name: Deploy
         id: deploy
@@ -29,5 +71,5 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_DELIGHTFUL_ISLAND_0C156CC03 }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          app_location: "${{ github.workspace }}/build/_site"
+          app_location: "${{ github.workspace }}/artifacts"
           output_location: ""
