@@ -19,6 +19,26 @@ Leader of software development communities: [GreenfieldConf.pl](https://Greenfie
 
 ## PROFESSIONALS EXPERIENCE
 
+### **SoftwareNeeds** – Founder and CEO, Principal/Lead Software Developer
+2020-Now, [https://softwareneeds.io/](https://softwareneeds.io/)
+
+Team member and leader of Software Development company.
+Seeking for a long-term collaboration and clients.
+
+**Summary:**
+- Work with team members to provide accurate development solutions.
+- Work with leadership team to provide strategic direction for the existing toolset.
+- Manage priorities and tasks within a work team.
+- Provide feedback to the team and individuals on their performance.
+- Drive software solutions to completion on time while providing regular status updates.
+- Lead a team developing high-quality software solutions.
+- Provide mentoring, guidance, feedback, and training to team members.
+- Overseeing project delivery for the needs of clients.
+- Business consultations and agreements.
+- Analysis of client’s needs and its translation to technical solutions.
+
+***
+
 ### **La-Francaise** – Senior Lead Software Developer
 2021, [https://www.la-francaise.com/](https://www.la-francaise.com/)
 
