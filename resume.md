@@ -39,6 +39,22 @@ Supporting big legacy 20 years old systems and maintenance of a CRM application,
 
 ***
 
+### **GreenfieldConf.pl** – Founder and Co-Owner, Team Leader
+2018-Now, [https://GreenfieldConf.pl](https://GreenfieldConf.pl), [https://www.youtube.com/c/GreenfieldConf](https://www.youtube.com/c/GreenfieldConf)
+
+Organising and leading fully charity Software Development craftsmanship conference, targetting hundreds of software developers.
+
+**Summary:**
+- Responsible for a concept, coordination, and the main idea of the conference.
+- Seeking and acquisition the conference partners and sponsors.
+- Charity for other foundations and initiatives.
+- Leading and starting every-year initiatives.
+- Contacting speakers and building a conference agenda along with other team members.
+- Budget and accounting.
+- Operational coordinator.
+
+***
+
 ### **Ultrico** – Full-Stack Senior Software Developer
 2015-2021, [https://ultri.co/](https://ultri.co/)
 
