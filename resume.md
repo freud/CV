@@ -199,7 +199,7 @@ Designing and developing logistics systems (both web and backend) application. D
 
 E-learning software for the needs of „WBT Express” - powerful course building tool. Developing components as controls for a course builder engine in JavaScript, XML, HTML, CSS, Delphi. JavaScript modules on the high level of abstraction these days (prototype, first versions of jQuery).
 
-## Skills
+## SKILLS
 
 15+ years experienced software developer in various industries. Strongly focuses on solving problems with the best software development practices.
 
