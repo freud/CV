@@ -5,9 +5,9 @@ layout: resume
 
 # Paweł Sroczyński / CV
 
-Software developer, leader, architect focused on collaboration and on solving problems with the best software development practices.
+Software developer, leader, architect focused on collaboration and on solving problems with the best software development practices. Building and developing not only software but people teams.
 
-Leader of software development communities: [GreenfieldConf.pl](https://GreenfieldConf.pl) craftsmanship conference (@Greenfield_Conf) and [DEV@ZG](https://www.meetup.com/DEV-ZG/) software development meetup. Bicycles 🚴‍♀️ lover and [Rowerek.pl](https://Rowerek.pl) owner.
+Leader of software development communities: [GreenfieldConf.pl](https://GreenfieldConf.pl) craftsmanship conference (@Greenfield_Conf) and [DEV@ZG](https://www.meetup.com/DEV-ZG/) software development meetup.
 
 - Zielona Góra, Lubusz Voivodeship, Poland
 - +48 517 66 22 20
