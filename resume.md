@@ -82,6 +82,7 @@ Evolving of business processes on the insurance market. The purpose is to handle
 2018-Now, [https://GreenfieldConf.pl](https://GreenfieldConf.pl), [https://www.youtube.com/c/GreenfieldConf](https://www.youtube.com/c/GreenfieldConf)
 
 Organising and leading fully charity Software Development craftsmanship conference, targetting hundreds of software developers.
+Once a year. Fully charity event. In my spare time. From software developers for software developers.
 
 **Summary:**
 - Responsible for a concept, coordination, and the main idea of the conference.
@@ -98,6 +99,7 @@ Organising and leading fully charity Software Development craftsmanship conferen
 2016-Now, [https://www.meetup.com/DEV-ZG/](https://www.meetup.com/DEV-ZG/)
 
 Organising and leading local software developers community meetup.
+In my spare time. From software developers for software developers.
 
 **Summary:**
 - Responsible for a concept, coordination, and the main idea of meetings.
