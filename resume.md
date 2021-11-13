@@ -59,6 +59,25 @@ Supporting big legacy 20 years old systems and maintenance of a CRM application,
 
 ***
 
+### **Ultrico** – Full-Stack Senior Software Developer
+2015-2021, [https://ultri.co/](https://ultri.co/)
+
+Evolving of business processes on the insurance market. The purpose is to handle insurance packages, like documents protection, life insurances, job loss insurances, payments, expanding insurances (orders) lifespan, and many more. Solutions delivered in Sweden, Norway, Finland, and Poland.
+
+**Summary:**
+- Integrations, web applications for customer service, and other departments which involve Azure and event-driven architecture.
+- Taking care of software quality using code reviews, unit testing, integration testing, and a few more on a daily basis.
+- Extending CI/CD process.
+- Overseeing project delivery: gathering requirements in alignment with stakeholders, cooperation with business. Growth and development, onboarding new people.
+- Contact users of the app and gather their requirements or problems.
+- Analysis of client’s needs and its translation to technical solutions
+- Knowledge transfer with other, less experienced team members.
+- Code review for changes made by team members.
+
+**Technologies, skills, methodologies:** Jira, BitBucket, TeamCity, MSSQL, RPC over HTTP, REST, Agile/Scrum, CI, CD, Octopus, SOLID, DRY, KISS, Saga, Microservices, DI (Autofac), RabbitMq (MassTransit), PowerShell, .Net Core, Event-Driven Architecture, .NET Framework (C#), Docker, HTML/CSS/JavaScript/Bootstrap, HTTP/Rest API, WCF, nHibernate, Dapper, Microsoft Azure (AppService, ServiceBus, MS Dynamics, SQL Database, Functions), xUnit, Moq.
+
+***
+
 ### **GreenfieldConf.pl** – Founder and Co-Owner, Team Leader
 2018-Now, [https://GreenfieldConf.pl](https://GreenfieldConf.pl), [https://www.youtube.com/c/GreenfieldConf](https://www.youtube.com/c/GreenfieldConf)
 
@@ -85,25 +104,6 @@ Organising and leading local software developers community meetup.
 - Seeking and acquisition the meetup partners, sponsors and speakers.
 - Budget and accounting.
 - Operational coordinator.
-
-***
-
-### **Ultrico** – Full-Stack Senior Software Developer
-2015-2021, [https://ultri.co/](https://ultri.co/)
-
-Evolving of business processes on the insurance market. The purpose is to handle insurance packages, like documents protection, life insurances, job loss insurances, payments, expanding insurances (orders) lifespan, and many more. Solutions delivered in Sweden, Norway, Finland, and Poland.
-
-**Summary:**
-- Integrations, web applications for customer service, and other departments which involve Azure and event-driven architecture.
-- Taking care of software quality using code reviews, unit testing, integration testing, and a few more on a daily basis.
-- Extending CI/CD process.
-- Overseeing project delivery: gathering requirements in alignment with stakeholders, cooperation with business. Growth and development, onboarding new people.
-- Contact users of the app and gather their requirements or problems.
-- Analysis of client’s needs and its translation to technical solutions
-- Knowledge transfer with other, less experienced team members.
-- Code review for changes made by team members.
-
-**Technologies, skills, methodologies:** Jira, BitBucket, TeamCity, MSSQL, RPC over HTTP, REST, Agile/Scrum, CI, CD, Octopus, SOLID, DRY, KISS, Saga, Microservices, DI (Autofac), RabbitMq (MassTransit), PowerShell, .Net Core, Event-Driven Architecture, .NET Framework (C#), Docker, HTML/CSS/JavaScript/Bootstrap, HTTP/Rest API, WCF, nHibernate, Dapper, Microsoft Azure (AppService, ServiceBus, MS Dynamics, SQL Database, Functions), xUnit, Moq.
 
 ***
 
