@@ -234,7 +234,7 @@ Taking methodologies like OOP, SOLID, DDD, DI, CI/CD, automation testing on a da
 ## INTERESTS
 
 - GreenfieldConf.pl – Founder, organizer, and leader of the craftsmanship conference (two editions and counting).
-- DEV@ZG Meetup (https://www.meetup.com/DEV-ZG/) – Founder, organizer and leader of software craftsmanship meetup in Zielona Góra, Poland
+- [DEV@ZG](https://www.meetup.com/DEV-ZG/) Meetup – Founder, organizer and leader of software craftsmanship meetup in Zielona Góra, Poland
 - Passionate craftsmanship software development conferences and solving problems by using DDD and Event Storming
 - Bicycles lover, bicycle expeditions (Norway 2012, Corsica 2013, Canary Islands 2014, Corsica 2015, Georgia 2016 – each over one thousand kilometers)
 - CrossFit
