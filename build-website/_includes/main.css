@@ -83,6 +83,12 @@ p, ul {
     margin-left: 30px;
 }
 
+@media only screen and (max-device-width: 480px) {
+    p, ul {
+        margin-left: 0;
+    }
+}
+
 h3+p {
     margin-left: 0;
 }
