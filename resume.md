@@ -40,7 +40,7 @@ Seeking for a long-term collaboration and clients.
 ***
 
 ### **La-Francaise** – Senior Lead Software Developer
-2021, [https://www.la-francaise.com/](https://www.la-francaise.com/)
+2021, six months contract, [https://www.la-francaise.com/](https://www.la-francaise.com/)
 
 Supporting big legacy 20 years old systems and maintenance of a CRM application, used by hundreds of businesspeople in the investment group.
 
