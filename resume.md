@@ -22,7 +22,7 @@ Leader of software development communities: [GreenfieldConf.pl](https://Greenfie
 ### **Dstny Automate** – Senior Software Developer
 2021-now, contract, [https://www.dstny.com/automate/](https://www.dstny.com/automate/)
 
-Supporting and maintaining systems for the global leader in delivering cloud solutions for voice-enable enterprise collaboration tools to simplify the integration of existing voice and telephony systems with IT and collaborative working tools (like MicrosoftTeams). It's all for the UK global leader in unified voice communications through cost-effective PaaS solutions.
+Supporting and maintaining systems for the global leader in delivering cloud solutions for voice-enable enterprise collaboration tools to simplify the integration of existing voice and telephony systems with IT and collaborative working tools (like Microsoft Teams). It's all for the UK global leader in unified voice communications through cost-effective PaaS solutions.
 
 **Summary:**
 - Growth, improvement, development.
@@ -33,7 +33,6 @@ Supporting and maintaining systems for the global leader in delivering cloud sol
 - Solving problems, including contact with customers around the world (USA, China, Japan, India)
 - Collaboration with teams across the whole organization.
 - Taking over the project from other software developers.
-- Evolving company's in the cloud product solutions.
 
 **Technologies, skills, methodologies:** Azure DevOps, Azure (AD, OAuth, Functions, WebJobs, App Service, Queues, and more), MSSQL/TSQL, Agile/Scrum, CI, CD, SOLID, DRY, KISS, PowerShell, .NET Framework (C#), DotNet Core, DotNet 5/6, ASP.NET, React, MicrosoftTeams.
 
