@@ -213,7 +213,7 @@ Taking methodologies like OOP, SOLID, DDD, DI, CI/CD, automation testing on a da
 
 **Methodology**: DDD, TDD, Agile, Extreme Programming, Scrum, Event Storming, KISS, DRY, YAGNI, CI/CD, Microservices
 
-**Technologies:** .NET Framework, C#, ASP.NET, ASP.NET Core, WCF, WPF, WF, Web/Rest Services, Microservices, nHibernate, Autofac, Castle Windsor, nUnit, xUnit, React.js, jQuery, CSS/LESS/SASS, Twitter Bootstrap, Json/XML/XPath/XSL/XSLT, HTML/xHTML, PHP
+**Technologies:** .NET Framework, C#, ASP.NET, ASP.NET Core, WCF, WPF, WF, Web/Rest Services, Microservices, nHibernate, Autofac, Castle Windsor, nUnit, xUnit, React.js, jQuery, CSS/LESS/SASS, Twitter Bootstrap, Material UI, Json/XML/XPath/XSL/XSLT/HTML
 
 **Cloud:** Microsoft Azure
 
