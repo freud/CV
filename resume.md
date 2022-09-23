@@ -123,7 +123,7 @@ Transformation, fusion with Atmosphere Paweł Sroczyński. Software development,
 - Coordination of new systems integration and contact with external services providers.
 - Business decisions.
 
-**Technologies, skills, methodologies:** C#, Trello, BitBucket, TeamCity, MSSQL, MySQL, REST, CI, CD, SOLID, DRY, KISS, DDD, Event Storming, DI (Autofac, Castle Windsor), RabbitMq (MassTransit), PowerShell, .Net Core 3.1, Event Driven Architecture, .NET Framework, Docker, WPF, HTML/CSS/JavaScript/Bootstrap, nHibernate, Dapper, Azure DevOps.
+**Technologies, skills, methodologies:** C#, Trello, BitBucket, TeamCity, MSSQL, MySQL, NoSQL (RavenDB), REST, CI, CD, SOLID, DRY, KISS, DDD, Event Storming, DI (Autofac, Castle Windsor), RabbitMq (MassTransit), PowerShell, .Net Core 3.1, Event Driven Architecture, .NET Framework, Docker, WPF, HTML/CSS/JavaScript/Bootstrap, nHibernate, Dapper, Azure DevOps.
 
 ***
 
@@ -218,7 +218,7 @@ Taking methodologies like OOP, SOLID, DDD, DI, CI/CD, automation testing on a da
 
 **DevOps:** Azure DevOps, GitHub Actions, TeamCity, Octopus, Docker, PowerShell, ELK
 
-**Databases:** MS SQL Server, MySQL, PostgreSQL, RabbitMQ, Oracle (PL/SQL)
+**Databases:** Azure SQL, MS SQL Server, MySQL, PostgreSQL, RabbitMQ, RavenDB (NoSQL)
 
 **Operating systems:** Microsoft Windows, Linux
 
