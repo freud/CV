@@ -206,7 +206,7 @@ E-learning software for the needs of „WBT Express” - powerful course buildin
 
 Leader of software development communities with interpersonal and communication skills. Interested in agile methodologies (Scrum, Kanban) especially in the context of remote & async remote work.
 
-Taking methodologies like OOP, SOLID, DDD, DI, CI/CD, automation testing on a daily basis.
+Taking methodologies like OOP, SOLID, IDEALS, DDD, DI, CI/CD, automation testing on a daily basis.
 
 **Languages:** Polish – native, English – intermediate+/C1
 
