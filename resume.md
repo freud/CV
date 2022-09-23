@@ -210,7 +210,7 @@ Taking methodologies like OOP, SOLID, IDEALS, DDD, DI, CI/CD, automation testing
 
 **Languages:** Polish – native, English – intermediate+/C1
 
-**Methodology**: DDD, TDD, Agile, Extreme Programming, Scrum, Event Storming, KISS, DRY, YAGNI, CI/CD, Microservices
+**Methodology**: DDD, TDD, Agile, Extreme Programming, Scrum, Event Storming, KISS, DRY, YAGNI, CI/CD, Microservices, C4 model
 
 **Technologies:** .NET Framework, dotnet core, dotnet 5/6, C#, ASP.NET, ASP.NET Core, WCF, WPF, WF, Web/Rest Services, Microservices, nHibernate, Autofac, Castle Windsor, nUnit, xUnit, React.js, jQuery, CSS/LESS/SASS, Twitter Bootstrap, Material UI, Json/XML/XPath/XSL/XSLT/HTML
 
