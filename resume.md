@@ -208,6 +208,8 @@ Leader of software development communities with interpersonal and communication 
 
 Taking methodologies like OOP, SOLID, IDEALS, DDD, DI, CI/CD, automation testing on a daily basis.
 
+Well versed on async programming and multi-threading.
+
 **Languages:** Polish – native, English – intermediate+/C1
 
 **Methodology**: DDD, TDD, Agile, Extreme Programming, Scrum, Event Storming, KISS, DRY, YAGNI, CI/CD, Microservices, C4 model
