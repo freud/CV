@@ -123,7 +123,7 @@ Transformation, fusion with Atmosphere Paweł Sroczyński. Software development,
 - Coordination of new systems integration and contact with external services providers.
 - Business decisions.
 
-**Technologies, skills, methodologies:** C#, Trello, BitBucket, TeamCity, MSSQL, MySQL, NoSQL (RavenDB), REST, CI, CD, SOLID, DRY, KISS, DDD, Event Storming, DI (Autofac, Castle Windsor), RabbitMq (MassTransit), PowerShell, .Net Core 3.1, Event Driven Architecture, .NET Framework, Docker, WPF, HTML/CSS/JavaScript/Bootstrap, nHibernate, Dapper, Azure DevOps.
+**Technologies, skills, methodologies:** C#, Trello, BitBucket, TeamCity, MSSQL, MySQL, NoSQL (RavenDB), REST, CI, CD, SOLID, DRY, KISS, DDD, Event Storming, DI (Autofac, Castle Windsor), RabbitMq (MassTransit), PowerShell, .Net Core, Event Driven Architecture, .NET Framework, Docker, WPF, React/TypeScript, HTML/CSS/JavaScript/Bootstrap, nHibernate, Dapper, Azure DevOps.
 
 ***
 
@@ -214,7 +214,7 @@ Well versed on async programming and multi-threading.
 
 **Methodology**: DDD, TDD, Agile, Extreme Programming, Scrum, Event Storming, KISS, DRY, YAGNI, CI/CD, Microservices, C4 model
 
-**Technologies:** .NET Framework, dotnet core, dotnet 5/6, C#, ASP.NET, ASP.NET Core, WCF, WPF, WF, Web/Rest Services, Microservices, nHibernate, Autofac, Castle Windsor, nUnit, xUnit, React.js, jQuery, CSS/LESS/SASS, Twitter Bootstrap, Material UI, Json/XML/XPath/XSL/XSLT/HTML
+**Technologies:** .NET Framework, dotnet core, dotnet 5/6, C#, ASP.NET, ASP.NET Core, WCF, WPF, WF, Web/Rest Services, Microservices, nHibernate, Autofac, Castle Windsor, nUnit, xUnit, React.js, TypeScript, jQuery, CSS/LESS/SASS, Twitter Bootstrap, Material UI, Json/XML/XPath/XSL/XSLT/HTML
 
 **Cloud:** Microsoft Azure
 
