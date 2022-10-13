@@ -78,7 +78,7 @@ Evolving of business processes on the insurance market. The purpose is to handle
 ***
 
 ### **GreenfieldConf.pl** – Founder and Co-Owner, Team Leader
-2018-Now, [https://GreenfieldConf.pl](https://GreenfieldConf.pl), [https://www.youtube.com/c/GreenfieldConf](https://www.youtube.com/c/GreenfieldConf)
+2018-Now, community, doing in my spare time, [https://GreenfieldConf.pl](https://GreenfieldConf.pl), [https://www.youtube.com/c/GreenfieldConf](https://www.youtube.com/c/GreenfieldConf)
 
 Organising and leading fully charity Software Development craftsmanship conference, targetting hundreds of software developers.
 Once a year. Fully charity event. In my spare time. From software developers for software developers.
@@ -94,8 +94,8 @@ Once a year. Fully charity event. In my spare time. From software developers for
 
 ***
 
-### **DEV@ZG** – Founder, Organizer
-2016-Now, [https://www.meetup.com/DEV-ZG/](https://www.meetup.com/DEV-ZG/)
+### **DEV@ZG** Meetup – Founder, Organizer
+2016-Now, community, doing in my spare time, [https://www.meetup.com/DEV-ZG/](https://www.meetup.com/DEV-ZG/)
 
 Organising and leading local software developers community meetup.
 In my spare time. From software developers for software developers.
