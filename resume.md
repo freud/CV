@@ -26,7 +26,7 @@ Supporting and maintaining systems for the global leader in delivering cloud sol
 
 **Summary:**
 - Growth, improvement, development.
-- Recruitement, technical interviews for potential software developers.
+- Recruitment, technical interviews for potential software developers.
 - Dealing with legacy code on a daily basis.
 - Automation testing.
 - Maintaining production systems.
